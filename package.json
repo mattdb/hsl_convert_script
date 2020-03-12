@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "color-convert": "^2.0.1",
+    "replace-in-file": "^5.0.2"
+  }
+}
